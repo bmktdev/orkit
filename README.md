@@ -4,6 +4,9 @@ Website: https://www.ooork.org
 
 Orkit - Crypto currency is scrypt based - Full PoS.
 ===========================
+Name: Orkit
+
+Short Mame: ORKIT
 
 Algorithm: scrypt
 
