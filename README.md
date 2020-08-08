@@ -4,7 +4,7 @@ Website: https://www.ooork.org
 
 Orkit - Crypto currency is scrypt based - Full PoS.
 ===========================
-Name: Orkit
+Name: Orkit Coin
 
 Ticker: ORKIT
 
