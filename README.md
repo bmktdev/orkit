@@ -6,7 +6,7 @@ Orkit - Crypto currency is scrypt based - Full PoS.
 ===========================
 Name: Orkit
 
-Short Mame: ORKIT
+Ticker: ORKIT
 
 Algorithm: scrypt
 
