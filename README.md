@@ -2,6 +2,8 @@ Orkit development tree
 
 Website: https://www.ooork.org
 
+Explorer: http://185.2.101.142:3051/blocks
+
 Orkit - Crypto currency is scrypt based - Full PoS.
 ===========================
 Name: Orkit Coin
