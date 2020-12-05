@@ -2,7 +2,8 @@ Orkit development tree
 
 Website: https://www.ooork.org
 
-Explorer: http://185.2.101.142:3051/blocks
+Explorer: http://144.91.94.73:3055/
+
 
 Orkit - Crypto currency is scrypt based - Full PoS.
 ===========================
@@ -27,3 +28,8 @@ Minimum age of coin: 6 hours
 RPC port: 7798
 
 P2P port: 7797
+
+Live Noges:
+
+addnode=207.180.235.74
+addnode=144.91.94.73
