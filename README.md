@@ -32,4 +32,5 @@ P2P port: 7797
 Live Noges:
 
 addnode=207.180.235.74
+
 addnode=144.91.94.73
